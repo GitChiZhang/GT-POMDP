@@ -1,5 +1,4 @@
 # GT-POMDP
-Traffic Mirror-Aware POMDP Behavior Planning for Autonomous Urban Driving
 
 ### Paper:
 Traffic Mirror-Aware POMDP Behavior Planning for Autonomous Urban Driving
